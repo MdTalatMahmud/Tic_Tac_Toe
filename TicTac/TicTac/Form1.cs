@@ -26,7 +26,7 @@ namespace TicTac
 
         private void AboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Made by Talat...!!! \nEmail: mahmud.talat@northsouth.edu \nPhone: +8801688501835");
+            MessageBox.Show("Md. Talat Mahmud \nEmail: mahmud.talat@northsouth.edu \nPhone: +8801303292825");
         }
 
         private void ExitToolStripMenuItem_Click(object sender, EventArgs e)

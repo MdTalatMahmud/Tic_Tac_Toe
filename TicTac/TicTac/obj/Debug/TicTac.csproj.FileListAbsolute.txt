@@ -18,3 +18,12 @@ E:\TicTac\TicTac\obj\Debug\TicTac.csproj.GenerateResource.cache
 E:\TicTac\TicTac\obj\Debug\TicTac.csproj.CoreCompileInputs.cache
 E:\TicTac\TicTac\obj\Debug\TicTac.exe
 E:\TicTac\TicTac\obj\Debug\TicTac.pdb
+E:\Tic_Tac_Toe\TicTac\TicTac\bin\Debug\TicTac.exe.config
+E:\Tic_Tac_Toe\TicTac\TicTac\bin\Debug\TicTac.exe
+E:\Tic_Tac_Toe\TicTac\TicTac\bin\Debug\TicTac.pdb
+E:\Tic_Tac_Toe\TicTac\TicTac\obj\Debug\TicTac.csprojAssemblyReference.cache
+E:\Tic_Tac_Toe\TicTac\TicTac\obj\Debug\TicTac.Form1.resources
+E:\Tic_Tac_Toe\TicTac\TicTac\obj\Debug\TicTac.Properties.Resources.resources
+E:\Tic_Tac_Toe\TicTac\TicTac\obj\Debug\TicTac.csproj.GenerateResource.cache
+E:\Tic_Tac_Toe\TicTac\TicTac\obj\Debug\TicTac.exe
+E:\Tic_Tac_Toe\TicTac\TicTac\obj\Debug\TicTac.pdb
